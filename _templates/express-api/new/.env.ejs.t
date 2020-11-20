@@ -19,5 +19,3 @@ DB_PORT=
 DB_DATABASE=
 DB_USER=
 DB_PASSWORD=
-
-SAFEA_URL=https://dev-api.plataforma-a.grupoa.education/v2/safea-client

@@ -6,7 +6,7 @@ version: '3.7'
 services:
   api:
     build: ./docker
-    image: node-grupoa:12-alpine
+    image: node:12-alpine
     volumes:
       - ./:/api
     ports:
