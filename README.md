@@ -1,5 +1,5 @@
 # Introduction 
-This API generator will streamline the usage of our Serverless APIs! This generator was made up with [Hygen](https://www.hygen.io/). Access the website for more info and docs.
+This generator was made up with [Hygen](https://www.hygen.io/). Access the website for more info and docs.
 
 #Requisites
 In order to use it, you'll need to:
